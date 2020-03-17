@@ -87,7 +87,7 @@
 
       <context-group purpose="location"><context context-type="sourcefile">app/shared/components/header/header.component.html</context><context context-type="linenumber">8</context></context-group><context-group purpose="location"><context context-type="sourcefile">app/modules/heroes/pages/heroes-list-page/heroes-list-page.component.html</context><context context-type="linenumber">2</context></context-group></trans-unit>
       <trans-unit id="createHero" datatype="html">
-        <source>Create a new hero</source><target state="final">Create a new hero</target>
+        <source>Create another hero</source><target state="final">Create another hero</target>
 
       <context-group purpose="location"><context context-type="sourcefile">app/modules/heroes/pages/heroes-list-page/heroes-list-page.component.html</context><context context-type="linenumber">46</context></context-group></trans-unit>
       <trans-unit id="create" datatype="html">
